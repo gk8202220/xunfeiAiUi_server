@@ -1,3 +1,3 @@
 # aiui 后处理 Demo
->> npm install
+>> npm install\n
 >> node bin/www
